@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rathor-rohit
-- 👀 I’m interested in ...HTML,CSS,JS,C,C++,DSA
-- 🌱 I’m currently learning ...above skills
-- 💞️ I’m looking to collaborate on ...Infosys
-- 📫 How to reach me ... rohitrathor218@gmail.com
+- 👀 I’m interested in ...UI Technologies - HTML , CSS , JavaScript , Angular14 , BootStrap5
+- 🌱 I’m currently learning ... Java Technologies - Core Java , Advance java (JDBC , Servelet , JSP ) , Spring .
+- 📫 How to reach me ... info.rohitrathor@gmail.com
 
 <!---
 Rathor-rohit/Rathor-rohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
